@@ -25,7 +25,7 @@ This extension provides imperative and reactive APIs and low-level and high-leve
 
 == Use the Redis Client
 
-If you want to use this extension, you need to add the `io.quarkus:quarkus-redis` extension first.
+If you want to use this extension, you need to add the `io.quarkus:quarkus-redis-client` extension first.
 In your `pom.xml` file, add:
 
 [source,xml,role="primary asciidoc-tabs-target-sync-cli asciidoc-tabs-target-sync-maven"]
